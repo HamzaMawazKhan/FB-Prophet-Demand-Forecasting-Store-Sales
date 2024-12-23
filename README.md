@@ -1,1 +1,1 @@
-In this project, we delve deep into time series forecasting to predict future demand for store sales. We perform extensive data cleaning, visualization, and feature engineering, and then build and optimize a FBProphet demand forecasting model that achieves a 4.9% MAPE.
+In this project, I delve deep into time series forecasting to predict future demand for store sales. I perform extensive data cleaning, visualization, and feature engineering, and then build and optimize a FBProphet demand forecasting model that achieves a 4.9% MAPE.
